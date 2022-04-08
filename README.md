@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityashinde1
 - 👀 I’m interested in Robotics, AI
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Big data and AIops
 - 📫 How to reach me mail - shindeadi39@gmail.com
 -                LinkedIn - https://www.linkedin.com/in/aditya-shinde-49548319a/
 
